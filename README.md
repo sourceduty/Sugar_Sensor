@@ -1,6 +1,6 @@
 ![Sugar](https://github.com/sourceduty/Sugar_Sensor/assets/123030236/3fbd82ed-d118-43ba-9262-177c56b3ef3d)
 
-> Concept sensor for detecting the presence and concentration of sucrose in solutions using Arduino and Raspberry Pi.
+> Conceptual sensor for detecting the presence and concentration of sucrose in solutions using Arduino and Raspberry Pi.
 
 #
 
