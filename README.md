@@ -20,6 +20,8 @@ The introduction of the Sugar Sensor also brings new opportunities for innovatio
 [Microcontroller Boards](https://github.com/sourceduty/Microcontroller_Boards)
 <br>
 [Sensor Calibration](https://github.com/sourceduty/Sensor_Calibration)
+<br>
+[Sugar Sensor](https://github.com/sourceduty/Raspberry_Pi)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
