@@ -41,6 +41,8 @@ For Arduino and Raspberry Pi users, sensor calibration can often be done through
 [Sensor Calibration](https://github.com/sourceduty/Sensor_Calibration)
 <br>
 [Raspberry Pi](https://github.com/sourceduty/Raspberry_Pi)
+<br>
+[IoT Engineer](https://github.com/sourceduty/IoT_Engineer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
