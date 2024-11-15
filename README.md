@@ -36,7 +36,7 @@ For Arduino and Raspberry Pi users, sensor calibration can often be done through
 #
 ### IoT Engineer
 
-IoT Engineer can help Raspberry Pi by guiding the development and optimization of IoT systems leveraging its capabilities. Whether you're using the Raspberry Pi for prototyping or deploying it in a production-grade IoT solution, IoT Engineer provides expertise in integrating sensors, actuators, and peripherals, choosing the right connectivity protocols (e.g., MQTT, CoAP, HTTP), and optimizing performance. It can assist with setting up efficient data pipelines, implementing edge computing solutions, and ensuring robust security for device communication. Additionally, IoT Engineer can troubleshoot hardware and software issues, design scalable architectures, and suggest energy-efficient practices tailored to Raspberry Pi-based IoT projects.
+[IoT Engineer](https://github.com/sourceduty/IoT_Engineer) can help Raspberry Pi by guiding the development and optimization of IoT systems leveraging its capabilities. Whether you're using the Raspberry Pi for prototyping or deploying it in a production-grade IoT solution, IoT Engineer provides expertise in integrating sensors, actuators, and peripherals, choosing the right connectivity protocols (e.g., MQTT, CoAP, HTTP), and optimizing performance. It can assist with setting up efficient data pipelines, implementing edge computing solutions, and ensuring robust security for device communication. Additionally, IoT Engineer can troubleshoot hardware and software issues, design scalable architectures, and suggest energy-efficient practices tailored to Raspberry Pi-based IoT projects.
 
 #
 ### Related Links
@@ -46,8 +46,6 @@ IoT Engineer can help Raspberry Pi by guiding the development and optimization o
 [Sensor Calibration](https://github.com/sourceduty/Sensor_Calibration)
 <br>
 [Raspberry Pi](https://github.com/sourceduty/Raspberry_Pi)
-<br>
-[IoT Engineer](https://github.com/sourceduty/IoT_Engineer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
