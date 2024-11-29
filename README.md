@@ -47,5 +47,8 @@ For Arduino and Raspberry Pi users, sensor calibration can often be done through
 <br>
 [Raspberry Pi](https://github.com/sourceduty/Raspberry_Pi)
 
+#
+![Conceptual](https://github.com/user-attachments/assets/6067f61a-958e-4666-a593-1c71f440694e)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
